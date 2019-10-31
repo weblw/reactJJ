@@ -1,2 +1,0 @@
-# reactJJ
-Created with CodeSandbox
